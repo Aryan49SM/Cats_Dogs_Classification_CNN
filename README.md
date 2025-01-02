@@ -58,4 +58,9 @@ Follow these steps to set up the project on your local machine:
 * **MaxPooling Layers:** Reduce spatial dimensions and control overfitting.
 * **Dense Layers:** Uses a ReLU & sigmoid activation function for binary classification.
 * **Dropout Layers:** Prevent overfitting by randomly disabling neurons during training.
+
+## Images:
+![Screenshot 2025-01-03 001448](https://github.com/user-attachments/assets/71e8c051-1ee6-44cb-be0f-3aeca5107e83)
+![Screenshot 2025-01-03 002258](https://github.com/user-attachments/assets/4258235d-0ee8-415c-b811-9827d58b69d6)
+
     
